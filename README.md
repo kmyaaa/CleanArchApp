@@ -29,7 +29,7 @@ A .NET 9 Web API built with Clean Architecture principles, featuring CRUD operat
 ### Setup
 
 1. Clone the repository
-2. Navigate to the WebAPI project:
+2. Navigate to the Infrastructure project:
    ```bash
    cd src/Infrastructure
    ```
