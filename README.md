@@ -31,7 +31,7 @@ A .NET 9 Web API built with Clean Architecture principles, featuring CRUD operat
 1. Clone the repository
 2. Navigate to the WebAPI project:
    ```bash
-   cd src/WebAPI
+   cd src/Infrastructure
    ```
 
 3. Update database:
